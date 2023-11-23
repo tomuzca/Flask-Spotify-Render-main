@@ -5,11 +5,7 @@ scikit-learn
 streamlit
 datetime
 python-dotenv
-selenium
-beautifulsoup4
 webdriver-manager
 chromedriver-py
 lxml
-pickle
-seaborn
-gdown
+cloudpickle==1.6.0
